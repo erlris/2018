@@ -11,3 +11,5 @@
 *.out
 *.synctex.gz
 *-cache.yaml
+#Solution files
+/lab1/solutions/*
